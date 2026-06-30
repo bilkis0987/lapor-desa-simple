@@ -22,3 +22,5 @@ class AppServiceProvider extends ServiceProvider
         //
     }
 }
+
+// Provider: register app services
