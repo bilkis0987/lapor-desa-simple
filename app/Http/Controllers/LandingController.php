@@ -24,3 +24,5 @@ class LandingController extends Controller
         ));
     }
 }
+
+// Stats: complaint counts by category
