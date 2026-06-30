@@ -72,3 +72,5 @@ class ComplaintController extends Controller
         return view('pengaduan.detail', compact('complaint'));
     }
 }
+
+// Index method: paginate with search filter
