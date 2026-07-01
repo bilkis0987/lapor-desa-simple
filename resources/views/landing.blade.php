@@ -115,3 +115,5 @@
         </div>
     </div>
 </x-public-layout>
+
+{{-- TODO: Add carousel images for hero section --}}
