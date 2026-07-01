@@ -16,3 +16,5 @@
         </div>
     </div>
 </x-app-layout>
+
+{{-- TODO: Add Chart.js integration for statistics --}}
