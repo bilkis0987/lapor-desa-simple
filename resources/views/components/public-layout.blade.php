@@ -16,3 +16,5 @@
         @stack('scripts')
     </body>
 </html>
+
+{{-- TODO: Add footer social links --}}
