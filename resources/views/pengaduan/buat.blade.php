@@ -82,3 +82,5 @@
         </div>
     </div>
 </x-public-layout>
+
+{{-- TODO: Add JavaScript form validation --}}
