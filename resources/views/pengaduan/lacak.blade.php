@@ -54,3 +54,5 @@
         </div>
     </div>
 </x-public-layout>
+
+{{-- TODO: Add real-time tracking status bar --}}
