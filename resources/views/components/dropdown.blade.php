@@ -33,3 +33,5 @@ $width = match ($width) {
         </div>
     </div>
 </div>
+
+{{-- TODO: Add transition animations --}}
