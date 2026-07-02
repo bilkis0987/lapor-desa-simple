@@ -22,3 +22,5 @@ class AdminMiddleware
         return $next($request);
     }
 }
+
+// TODO: Add role-based access control
