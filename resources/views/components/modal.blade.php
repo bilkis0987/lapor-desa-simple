@@ -76,3 +76,5 @@ $maxWidth = [
         {{ $slot }}
     </div>
 </div>
+
+{{-- TODO: Add close on backdrop click --}}
