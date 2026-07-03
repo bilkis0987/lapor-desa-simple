@@ -30,3 +30,5 @@
         </div>
     </div>
 </x-app-layout>
+
+{{-- TODO: Add icon preview --}}
