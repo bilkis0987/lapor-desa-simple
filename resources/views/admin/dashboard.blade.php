@@ -119,3 +119,5 @@
     </script>
     @endpush
 </x-app-layout>
+
+{{-- TODO: Add weekly chart --}}
