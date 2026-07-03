@@ -48,3 +48,5 @@
         </div>
     </div>
 </x-app-layout>
+
+{{-- TODO: Add searchable table --}}
