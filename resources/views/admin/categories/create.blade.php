@@ -30,3 +30,5 @@
         </div>
     </div>
 </x-app-layout>
+
+{{-- TODO: Add slug auto-generation --}}
