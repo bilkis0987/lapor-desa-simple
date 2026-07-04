@@ -71,3 +71,5 @@ class CategoryController extends Controller
             ->with('success', 'Kategori berhasil dihapus.');
     }
 }
+
+// TODO: Add category reorder
