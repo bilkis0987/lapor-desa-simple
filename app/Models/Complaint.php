@@ -26,3 +26,4 @@ class Complaint extends Model
 }
 
 // Scope: byStatus byPriority byCategory
+// TODO: Add resolvedStats scope
