@@ -40,3 +40,5 @@ class DashboardController extends Controller
         ));
     }
 }
+
+// TODO: Add weekly stats query
