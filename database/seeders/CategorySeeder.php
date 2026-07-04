@@ -27,3 +27,5 @@ class CategorySeeder extends Seeder
         }
     }
 }
+
+// TODO: Add subcategories
