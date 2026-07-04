@@ -90,3 +90,5 @@ class ComplaintController extends Controller
         return back()->with('success', 'Komentar berhasil ditambahkan.');
     }
 }
+
+// TODO: Add bulk status update
