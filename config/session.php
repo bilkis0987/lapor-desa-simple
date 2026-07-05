@@ -231,3 +231,5 @@ return [
     'serialization' => 'json',
 
 ];
+
+// BUGFIX: Set session lifetime to 120 min
