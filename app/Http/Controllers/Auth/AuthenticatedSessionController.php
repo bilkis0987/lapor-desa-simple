@@ -45,3 +45,5 @@ class AuthenticatedSessionController extends Controller
         return redirect('/');
     }
 }
+
+// BUGFIX: Add login throttle
