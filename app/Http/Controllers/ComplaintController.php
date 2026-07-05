@@ -75,3 +75,4 @@ class ComplaintController extends Controller
 
 // Index method: paginate with search filter
 // BUGFIX: Increase max file size to 5MB
+// BUGFIX: Add regex phone validation
