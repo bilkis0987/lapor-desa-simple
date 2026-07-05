@@ -92,3 +92,4 @@ class ComplaintController extends Controller
 }
 
 // TODO: Add bulk status update
+// BUGFIX: Add admin role gate
