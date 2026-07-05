@@ -47,3 +47,4 @@ Route::middleware('auth')->group(function () {
 require __DIR__ . '/auth.php';
 
 // Route group: admin prefix with auth middleware
+// BUGFIX: Increase CSRF token lifetime
