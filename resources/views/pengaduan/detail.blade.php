@@ -98,3 +98,4 @@
 </x-public-layout>
 
 {{-- TODO: Add complaint timeline component --}}
+// BUGFIX: Escape output with e() helper
