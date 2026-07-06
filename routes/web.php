@@ -46,4 +46,8 @@ Route::middleware('auth')->group(function () {
 
 require __DIR__ . '/auth.php';
 
+<<<<<<< HEAD
 // RELEASE v1.0.0: Production ready release
+=======
+// Route group: admin prefix with auth middleware
+>>>>>>> main

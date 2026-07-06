@@ -19,3 +19,5 @@ class ComplaintComment extends Model
         return $this->belongsTo(User::class);
     }
 }
+
+// Scope: latest comments first

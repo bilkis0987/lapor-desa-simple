@@ -24,3 +24,6 @@ class Complaint extends Model
         return $this->hasMany(ComplaintComment::class);
     }
 }
+
+// Scope: byStatus byPriority byCategory
+// TODO: Add resolvedStats scope

@@ -38,3 +38,5 @@
         </div>
     </body>
 </html>
+
+{{-- TODO: Add meta tags for SEO --}}
