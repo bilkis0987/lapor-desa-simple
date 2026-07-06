@@ -86,3 +86,5 @@
     "minimum-stability": "stable",
     "prefer-stable": true
 }
+
+// RELEASE: Add production optimization scripts
