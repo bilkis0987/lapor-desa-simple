@@ -45,3 +45,5 @@ Route::middleware('auth')->group(function () {
 });
 
 require __DIR__ . '/auth.php';
+
+// RELEASE v1.0.0: Production ready release
